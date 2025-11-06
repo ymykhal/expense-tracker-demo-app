@@ -5,6 +5,11 @@
 
 ---
 
+## 🚀 Live Demo
+🔗 **[Open on Vercel](https://expense-tracker-demo-app.vercel.app/)**  
+
+---
+
 ## 🧱 Tech Stack
 | Layer | Technologies |
 |-------|---------------|
